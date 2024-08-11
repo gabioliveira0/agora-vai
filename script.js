@@ -54,7 +54,7 @@ function mostraPergunta() {
 function mostraAlternativas() {
     for(const alternativa of perguntaAtual.alternativas) {
         const botaoAlternativas = document.createElement("button");
-        botaoAlternativa.textContent = alternativa;
+        botaoAlternativastextContent = alternativa;
         caixaAlternativas.appendChild(botaoAlternativas);
     }
 }
