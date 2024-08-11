@@ -31,7 +31,6 @@ const perguntas = [
                 afirmacao: "afirmacao"
             }
 
-
         ]
     },
     {
@@ -46,7 +45,6 @@ const perguntas = [
                 afirmacao: "afirmacao"
             }
 
-
         ]
     },
     {
@@ -60,23 +58,21 @@ const perguntas = [
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA."
                 afirmacao: "afirmacao"
             }
-
-
+            
         ]
     },
     {
         enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
         alternativas: [
             {
-                texto:
-                    afirmacao:
+                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
+                    afirmacao: "afirmacao"
             },
             {
-                texto:
-                    afirmacao:
+                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial."
+                    afirmacao: "afirmacao"
             }
-            "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-            "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial."
+            
         ]
     },
 ];
